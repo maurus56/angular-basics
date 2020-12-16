@@ -1,6 +1,6 @@
 # angular-basics
 
-## [Descargar](https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip) e instalar NODE.JS mediante NVM 
+## Descargar[[win](https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip)/[mac-linux](https://github.com/nvm-sh/nvm)] e instalar NODE.JS mediante NVM 
 
 Una vez instalado se abre CMD y ejecutan los siguentes comandos ([imagenes](https://codeburst.io/nvm-for-windows-how-to-install-and-use-13b7a4209791)):
 
