@@ -26,3 +26,10 @@ Una vez instalado se abre CMD y ejecutan los siguentes comandos ([imagenes](http
 
     `npm install -g @angular/cli`
 
+
+
+
+
+## TODOs
+
+[INFO][Strict Types and bundle](https://blog.angular.io/angular-cli-strict-mode-c94ba5965f63)
