@@ -31,6 +31,7 @@ Una vez instalado se abre CMD y ejecutan los siguentes comandos ([imagenes](http
 (Opcional) Crear una carpeta llamada 'Angular'
 
 - En consola ubicarte en el directorio donde quieras almacenar los proyectos y ejecutar
+    
     `ng new angular-basics`
 
 ## Instalar VSCode
