@@ -59,5 +59,3 @@ Siguiente [link](https://code.visualstudio.com/)
 
 
 ## TODOs
-
-[INFO][Strict Types and bundle](https://blog.angular.io/angular-cli-strict-mode-c94ba5965f63)
